@@ -76,4 +76,4 @@ RegisterNumber:24008491
 ![image](https://github.com/user-attachments/assets/1850c7e3-52b7-49f3-b2e4-a2051d6a4a60)
 
 **RESULTS**
-SR flipflop using verilog is verified.
+SR flipflop using verilog is verified. 
